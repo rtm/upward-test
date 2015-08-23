@@ -3,6 +3,8 @@ Upward Tests
 
 This repository contains tests for [Upward](https://www.github.com/rtm/upward), the declarative Javascript library.
 
+The tests may be available on-line [here](http://upward-test.s3-website-us-east-1.amazonaws.com/).
+
 
 ### Building and running
 
