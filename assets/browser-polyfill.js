@@ -1,1 +1,1 @@
-../../node_modules/babel-core/browser-polyfill.js
+../node_modules/babel-core/browser-polyfill.js

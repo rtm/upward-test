@@ -1,1 +1,1 @@
-../../etc/reload-client.js
+../node_modules/upward/etc/reload-client.js
