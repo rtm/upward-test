@@ -1,7 +1,7 @@
 {
   "name": "upward-test",
   "description": "Tests for upward, the front-end library for modern boys and girls",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "licenses": [
     {
       "type": "MIT"
