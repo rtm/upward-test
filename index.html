@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+
+<!--
+     HTML for Upward test runner.
+     Modify main.js to configure tests.
+-->
+
+<html>
+
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <title>Upward Test Runner</title>
+
+    <link rel="icon" type="image/png" href="assets/upward.png"/>
+
+    <!-- testing libraries -->
+    <script src="assets/chai.js"></script>
+    <script src="assets/sinon-1.15.4.js"></script>
+
+    <!-- Babel polyfill, needed for generators. -->
+    <script src="assets/browser-polyfill.js"></script>
+
+    <!-- Reload. -->
+    <script>RELOAD_PORT = 32568;</script>
+    <script src="assets/reload-client.js"></script>
+  </head>
+
+  <body>
+    <h1>Upward Tests</h1>
+
+    <div id="reports"></div>
+
+    <script src="assets/bundle.js"></script>
+  </body>
+
+</html>
